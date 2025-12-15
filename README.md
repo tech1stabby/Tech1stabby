@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+    <img alt='Metrics' src='https://github.com/sbxte/sbxte/blob/data/github-metrics.svg'>
+</div>
