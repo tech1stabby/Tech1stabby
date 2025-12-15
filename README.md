@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img alt='Metrics' src='https://github.com/tech1stabby/tech1stabby/blob/data/github-metrics.svg'>
+    <img alt='Metrics' src='https://github.com/tech1stabby/tech1stabby/github-metrics.svg'>
 </div>
